@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lithernia/history/lithernia/"}
+{"dg-publish":true,"permalink":"/lithernia/history/lithernia/","tags":["gardenEntry"]}
 ---
 
 
